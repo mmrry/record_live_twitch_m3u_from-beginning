@@ -2,8 +2,8 @@
 Record current LIVE Twitch stream m3u, from the beginning and save 
 
 
-# Requirements:
+# Requirements (Linux, bash):
 ```
-bash
+curl
 ffmpeg
 ```
